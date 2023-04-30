@@ -33,7 +33,7 @@ class RandomThings(commands.Cog):
 
 bot = commands.Bot(command_prefix='!#', intents=intents)
 
-TOKEN = "MTA4OTk3NjYzNjMzOTkxNjkwMw.Gl1q7i.0m03iu-2P9wx1IWgVaQJDepTnpP3xkVj1nFcXM"
+TOKEN = "MTA4OTk3NjYzNjMzOTkxNjkwMw.Gztgug.ym0kq_LcTlZLL53rwxXf4D86iMaT3jsZY3N5VM"
 
 
 async def main():
